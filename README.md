@@ -60,3 +60,5 @@ The entire workflow—from data loading to final predictions—was documented an
 
 http://localhost:8888/notebooks/spamdetectionModel.ipynb
 
+<img width="1192" height="865" alt="Image" src="https://github.com/user-attachments/assets/2d0f26d6-6107-481d-bb1c-f33ce0f843e5" />
+
